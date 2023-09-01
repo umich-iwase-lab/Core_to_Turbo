@@ -1,4 +1,4 @@
-# This is the procesure to transfer sequencing data from Umich Core datadent to Greatlakes Turbo via Blobus
+# This is the process to transfer sequencing data from Umich Core dataden to Greatlakes Turbo via Globus
 
 ## 1. Login to Globus
 https://app.globus.org/file-manager
